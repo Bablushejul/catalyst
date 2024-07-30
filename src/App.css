@@ -1,31 +1,25 @@
-
 .section {
   background-image: url("./assets/Masthead.jpg");
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
-  height: 525px; /
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 525px;
   p {
     font-family: Nunito Sans;
     font-size: 16px;
     font-weight: 700;
     line-height: 21.82px;
     text-align: left;
-    
-    color:#F8F8F8;    ;
+    color: #f8f8f8;
   }
 }
 .section p {
-  
-  
-    font-family: Nunito Sans;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 21.82px;
-    text-align: left;
-    
-    color:#F8F8F8;    ;
-  
+  font-family: Nunito Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.82px;
+  text-align: left;
+  color: #f8f8f8;
 }
 
 .header-container {
@@ -38,7 +32,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;;
+  padding: 20px;
 }
 
 .product-card {
@@ -79,20 +73,18 @@
   margin-top: 50px;
 }
 
-
 ul li {
   list-style-type: none;
 }
 
-
-.header-container button{
+.header-container button {
   cursor: pointer;
   margin-left: 20px;
   box-sizing: border-box;
   border-radius: 2px;
   background-color: #4f4733;
-  color:#F8F8F8;
+  color: #f8f8f8;
 }
 button {
-  background:none;
+  background: none;
 }
